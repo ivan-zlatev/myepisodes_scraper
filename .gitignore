@@ -1,2 +1,4 @@
 loginCredentials.py
 __pycache__/
+*.tsv
+*.csv
